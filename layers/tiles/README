@@ -1,0 +1,5 @@
+To add tiles, make sure each tile has the following properties:
+- self.surface: an object of the form pygame.Surface. Importing a figure in pygame already returns a Surface. 
+- self.walkable: whether the agent is able to walk into this tile
+
+list incomplete...
